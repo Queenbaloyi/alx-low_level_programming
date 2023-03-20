@@ -23,4 +23,3 @@ int main(void)
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
-
