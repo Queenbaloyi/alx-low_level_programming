@@ -20,6 +20,3 @@ int main(void)
 	printf("%d\n", z);
 	return (0);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
