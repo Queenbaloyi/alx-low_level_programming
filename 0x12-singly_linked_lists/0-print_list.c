@@ -1,8 +1,8 @@
-#include <stdio.i>
+#include <stdio.h>
 #include "lists.h"
 
 /**
-*Tasks0. print_list - prints all the elements of a linked list
+*task 0 print_list - prints all the elements of a linked list
 * @h: pointer to the list_t list to print
 *
 * Return: the number of nodes printed
